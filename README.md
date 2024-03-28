@@ -1,1 +1,1 @@
-Files for Safety As Proxy:the Yale Bubble including og html file and graphics 
+Files for "Safety As Proxy:the Yale Bubble" project, including html file and graphics 
